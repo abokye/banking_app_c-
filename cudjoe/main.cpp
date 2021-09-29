@@ -41,7 +41,7 @@
     {
        BankTransaction* bt =
           new BankTransaction("localhost", "root",
-                              "Innocenti1@", "mybank");
+                              "your root password", "mybank");
      
        int choice;
        int acnu;
